@@ -29,6 +29,12 @@ https://johankj.github.io/convert-crx-to-zip/
 
 
 
+shell使用代理
+
+export http_proxy=http://127.0.0.1:7890
+
+
+
 树莓派安装中文输入法（谷歌拼音）
 
 sudo apt-get install fcitx fcitx-googlepinyin
